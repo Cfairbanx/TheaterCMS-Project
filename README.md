@@ -39,6 +39,7 @@ Messaging.cshtml
       $("textarea").animate({
         bottom: -440
       }, "slow");
+      $("#chevButton").css({ "transform": "rotate(" + 180 + "deg)" });
     }
   });
 </script>
