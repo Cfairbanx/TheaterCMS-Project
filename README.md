@@ -5,7 +5,7 @@ Over a 10 day sprint with the Tech Academy, I worked with my peers in a team dev
 
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. 
 
-#### The code is more legible in the raw view, top right of the Readme.
+### The code is more legible in the raw view, top right of the Readme.
 
 ## Front-End Stories
 * [Message Bar](#message-bar)
